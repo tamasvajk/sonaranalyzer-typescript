@@ -1,0 +1,12 @@
+{
+  "name": "sonar-analyzer.type-script",
+  "version": "0.0.0",
+  "description": "SonarAnalzzer.TypeScript",
+  "main": "app.js",
+  "author": {
+    "name": "tomi"
+  },
+  "dependencies": {
+    "typescript": "^2.0.0"
+  }
+}
